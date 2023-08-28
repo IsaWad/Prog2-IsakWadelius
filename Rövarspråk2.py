@@ -17,3 +17,12 @@ def rövarspråk():
     print(rövarspråk)
 
 rövarspråk()
+
+
+#Vänder på text
+def reverse():
+    text = "Hej"
+    text = text[::-1]
+    print(text)
+    
+#reverse()
