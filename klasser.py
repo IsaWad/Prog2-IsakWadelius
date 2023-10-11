@@ -23,3 +23,5 @@ elev1 = Elev("Hans", 8, False)
 print(elev1.__dict__)
 elev1.presentera()
 elev1.humör()
+
+
